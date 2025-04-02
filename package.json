@@ -1,0 +1,14 @@
+{
+  "name": "grid-app",
+  "version": "1.0.0",
+  "description": "A simple grid application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "simplex-noise": "^4.0.1"
+  }
+} 
